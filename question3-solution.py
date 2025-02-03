@@ -1,5 +1,3 @@
-# Name: Ogundana joseph moyinoluwa
-# Matric-No: RUN/IFT/22/13194
 
 import matplotlib.pyplot as p
 
