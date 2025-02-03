@@ -1,5 +1,3 @@
-# Name : Ogundana Joseph Moyinoluwa
-# Matic-Number : RUN/IFT/22/13194
 
 import matplotlib.pyplot as plt
 
